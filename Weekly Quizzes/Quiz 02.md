@@ -50,3 +50,36 @@ b -= VAL;
 
 Question 04
 -----------  
+Consider the following four program fragments i.e. A, B, C, and D. Which program(s) fragment (i.e. B, C, D) functionality is similar to A? Choose correct choice.   
+![alt text](https://github.com/UtkarshPathrabe/Computer-Programming-BITS-Pilani/blob/master/Weekly%20Quizzes/Quiz0204.png "Mask")   
+
+### Answer  
+B  
+
+Question 05
+-----------  
+Consider the following piece of code. What is printed by the printf statement written on line X?  
+int i;   
+for(i=0; i<10; i++)   
+{   
+/* some code that doesn't modify i */   
+}   
+printf ("%d",i); /* line X */   
+
+### Answer  
+10  
+
+Question 06
+-----------  
+Consider the following program fragment. How many times "ONE" will be printed?  
+int i;  
+for (i = 0; i ; i++)  
+{  
+printf ("ONE");   
+}  
+
+### Answer  
+Zero Times  
+
+Question 07
+-----------  
