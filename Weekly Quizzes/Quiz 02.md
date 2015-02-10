@@ -83,3 +83,23 @@ Zero Times
 
 Question 07
 -----------  
+Consider the following programs: Program A and Program B. It is claimed that the functionality of both the programs is same. Choose the best option for this claim.  
+![alt text](https://github.com/UtkarshPathrabe/Computer-Programming-BITS-Pilani/blob/master/Weekly%20Quizzes/Quiz0207.png "Mask")   
+
+### Answer  
+The claim is right.  
+
+Question 08
+-----------  
+See the following program. You can see that variable i is not initialized. With what value i should be initialized so that PILANI gets printed.   
+int main()   
+{   
+int i;   
+if (i);   
+else   
+printf("PILANI");   
+return 0;   
+}  
+
+### Answer  
+i = 0  
