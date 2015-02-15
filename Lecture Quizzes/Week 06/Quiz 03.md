@@ -1,8 +1,8 @@
 Quiz 03
 =======  
 
-Question 01
------------  
+Question
+--------    
 What will be the output of the following search program?  
 
 `#include <stdio.h>`  

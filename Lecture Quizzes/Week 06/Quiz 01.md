@@ -10,7 +10,7 @@ float days[7];
 28 bytes  
 
 ### Explanation  
-size = 7 * 4(for storing single integer) = 28  
+size = 7 * 4(for storing single float value) = 28  
 
 Question 02
 -----------  
