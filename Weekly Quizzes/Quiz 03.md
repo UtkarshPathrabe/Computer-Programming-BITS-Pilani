@@ -101,7 +101,7 @@ printf("%c",c[i][j]);
 
 Question 08
 -----------  
-The desired output of the following program is: hfnos 
+The desired output of the following program is: `hfnos`   
 Which of the following should be replaced in place of LINE? 
 ```  
 int main() {  
