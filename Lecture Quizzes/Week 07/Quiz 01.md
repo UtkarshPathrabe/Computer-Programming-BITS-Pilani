@@ -1,4 +1,4 @@
-QUiz 01
+Quiz 01
 =======  
 
 Question
